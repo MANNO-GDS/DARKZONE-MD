@@ -1,9 +1,9 @@
 {
   "name": "DARKZONE-MD",
-  "description": "Javascript WhatsApp bot made by 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟",
-  "logo": "https://files.catbox.moe/jecbfo.jpg",
-  "keywords": ["DARKZONE-MD"],
-  "success_url": "/",
+  "description": "Javascript WhatsApp bot made by ARMAN-2.0",
+  "logo": "https://pmd-img2url.koyeb.app/v/01eea75b0b92e8cab35e090f1d889a15.jpg",
+  "keywords": ["MANNO-MD"],
+  "success_url": "https://github.com/MANNO-GDS/DARKZONE-MD",
 
     "stack": "container",
   "env": {
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐸𝑅𝐹𝒜𝒩"
+      "value": "𓂃ᷱ᪳𝀓͢ -𓆩〭〬𝐂υٹǝ֟፝͝ 🇦𝐑مᴀɴ♛ 🍫🥰🐭"
     }, 
       
     "PREFIX": {
@@ -83,7 +83,7 @@
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "˻•ᴍᴀͥɴͭɴͯ͢ᴏࠫ͠𐫰•˺ 👑♥️",
       "required": false,
       "value": "ERFAN"
 }, 
@@ -91,14 +91,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923306137477"
+      "value": "923097045246"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "DARKZONE-MD"
+      "value": "*MANNO-MD*"
 
       }, 
 
